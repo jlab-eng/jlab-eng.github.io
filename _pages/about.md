@@ -2,33 +2,60 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+subtitle: M.S. Student in Management Science and Engineering · Beihang University, Beijing
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Beijing, China</p>
+    <p>Beihang University</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an M.S. student in **Management Science and Engineering at Beihang University**, with a background in Mechanical Engineering and research experience in operations research, optimization, and electric transportation systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests focus on **computational decision-making models for transportation and logistics systems**. I am particularly interested in optimization, scheduling, smart mobility, logistics and supply chain systems, as well as in exploring how **machine learning and artificial intelligence can be integrated with optimization methods** to support better operational and strategic decision-making.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Interests
+
+- **Operations Research & Decision Analytics**
+- **Intelligent Transportation, Smart Mobility & Fleet Systems- EV-BEB-AGV-AMR**
+- **Logistics, Supply Chain & Resource Scheduling**
+- **Data-Driven Optimization & AI-Assisted Decision-Making**
+
+I am especially interested in research where mathematical and computational methods are used to address **real-world operational and engineering problems**, including electric mobility, transportation, logistics, and intelligent industrial systems.
+
+## Featured Research
+
+### Battery-Electric Bus Fleet Charging and Scheduling Optimization
+
+I am currently developing a MILP framework for **Battery-Electric Bus Fleet Charging and Scheduling Optimization**
+
+The model integrates vehicle operations, charging infrastructure, battery dynamics, electricity pricing, and grid constraints, including:
+
+- State-of-Charge (SoC)-dependent charging power
+- Time-of-Use electricity pricing
+- Charger availability and depot capacity
+- Vehicle operating schedules
+- Charging-session continuity
+- Grid power limitations
+- Infrastructure and operational sensitivity analysis
+
+The optimization framework is implemented in **Python** and solved using **Gurobi Optimizer**.
+
+Future research may explore **large-scale optimization for mixed-technology fleets**, as well as the integration of optimization, simulation, and data-driven methods for intelligent transportation and logistics systems.
+
+**Methods & Tools:** MILP · Scheduling · Resource Allocation · Sensitivity Analysis · Python · Gurobi
+
+[View research repository](https://github.com/jlab-eng/bus-charging-optimization)
