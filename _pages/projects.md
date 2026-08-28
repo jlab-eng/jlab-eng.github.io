@@ -4,7 +4,7 @@ permalink: /research/
 description: Selected research projects and ongoing work.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: 
 horizontal: false
 ---
 
