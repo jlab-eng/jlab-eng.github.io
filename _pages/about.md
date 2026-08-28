@@ -54,7 +54,7 @@ The model integrates vehicle operations, charging infrastructure, battery dynami
 
 The optimization framework is implemented in **Python** and solved using **Gurobi Optimizer**.
 
-Future research may explore **large-scale optimization for mixed-technology fleets**, as well as the integration of optimization, simulation, and data-driven methods for intelligent transportation and logistics systems.
+Future research includes explore **optimization for large-scale and mixed-technology fleets**, as well as the integration of optimization, simulation, and data-driven methods for intelligent transportation and logistics systems.
 
 **Methods & Tools:** MILP · Scheduling · Resource Allocation · Sensitivity Analysis · Python · Gurobi
 
