@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a M.S. student in **Management Science and Engineering at Beihang University**, with a background in Mechanical Engineering and research experience in operations research, optimization, and electric transportation systems.
+I am a M.Sc. student in **Management Science and Engineering at Beihang University**, with a background in Mechanical Engineering and research experience in operations research, optimization, and electric transportation systems.
 
 My research interests focus on **computational decision-making models for transportation and logistics systems**. I am particularly interested in optimization, scheduling, smart mobility, logistics and supply chain systems, as well as in exploring the intersection of **machine learning and operations research methods** to support better decision-making in real-world operational and engineering problems.
 
