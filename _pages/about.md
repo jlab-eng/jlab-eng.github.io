@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-
-subtitle: M.S. Student in Management Science and Engineering · Beihang University, Beijing
+subtitle: M.Sc. Student in Management Science and Engineering · Beihang University, Beijing
 
 profile:
   align: right
