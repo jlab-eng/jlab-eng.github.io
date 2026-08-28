@@ -23,18 +23,17 @@ latest_posts:
   enabled: false
 ---
 
-I am an M.S. student in **Management Science and Engineering at Beihang University**, with a background in Mechanical Engineering and research experience in operations research, optimization, and electric transportation systems.
+I am a M.S. student in **Management Science and Engineering at Beihang University**, with a background in Mechanical Engineering and research experience in operations research, optimization, and electric transportation systems.
 
-My research interests focus on **computational decision-making models for transportation and logistics systems**. I am particularly interested in optimization, scheduling, smart mobility, logistics and supply chain systems, as well as in exploring how **machine learning and artificial intelligence can be integrated with optimization methods** to support better operational and strategic decision-making.
+My research interests focus on **computational decision-making models for transportation and logistics systems**. I am particularly interested in optimization, scheduling, smart mobility, logistics and supply chain systems, as well as in exploring the intersection of **machine learning and operations research methods** to support better decision-making in real-world operational and engineering problems.
 
 ## Research Interests
 
-- **Operations Research & Decision Analytics**
+- **Operations Research & Decision Analysis**
 - **Intelligent Transportation, Smart Mobility & Fleet Systems- EV-BEB-AGV-AMR**
 - **Logistics, Supply Chain & Resource Scheduling**
 - **Data-Driven Optimization & AI-Assisted Decision-Making**
 
-I am especially interested in research where mathematical and computational methods are used to address **real-world operational and engineering problems**, including electric mobility, transportation, logistics, and intelligent industrial systems.
 
 ## Featured Research
 
