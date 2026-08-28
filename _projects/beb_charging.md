@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Battery Electric Bus Charging Optimization
-description: MILP-based scheduling of battery-electric bus charging under operational, battery, charger, and grid constraints.
+description: This study develops a (MILP) model for scheduling the charging of battery electric buses (BEBs) operating from a single depot. The model incorporates battery-energy dynamics, bus and charger availability, a SoC-dependent charging power with a Time-of-Use (ToU) tariff.
+img: assets/img/plot_soc_tou_uv.png
 importance: 1
 related_publications: false
 ---
 
 ## Overview
 
-This research develops a **Mixed-Integer Linear Programming (MILP)** framework for optimizing the charging schedule of Battery Electric Bus (BEB) fleets.
+This research develops a **Mixed-Integer Linear Programming (MILP)** framework for optimizing the charging schedule of Battery Electric Bus (BEB) fleets under a charging-power SOC dependent model.
 
 The model determines when and at what power level each bus should charge while considering realistic operational and infrastructure constraints.
 
