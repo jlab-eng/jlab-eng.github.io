@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 subtitle: M.S. Student in Management Science and Engineering · Beihang University, Beijing
