@@ -11,6 +11,7 @@ on:
       - "**.html"
       - "**.js"
       - "**.liquid"
+      - "**.tex"
       - "**/*.md"
       - "**.yml"
       - "Gemfile"
@@ -38,6 +39,7 @@ on:
       - "**.html"
       - "**.js"
       - "**.liquid"
+      - "**.tex"
       - "**/*.md"
       - "**.yml"
       - "Gemfile"
@@ -67,6 +69,15 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
+      - name: Prepare CV photo 🖼️
+        run: cp assets/img/prof_pic.png assets/pdf/FOTO.png
+      - name: Compile academic CV 📄
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: academic_cv_joaquin_leal.tex
+          working_directory: assets/pdf
+      - name: Name academic CV file
+        run: mv assets/pdf/academic_cv_joaquin_leal.pdf assets/pdf/Joaquin_Leal_Enciso_CV.pdf
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
