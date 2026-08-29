@@ -21,9 +21,21 @@
           </h6>
         {% endif %}
 
-        {% if entry.location %}
+        {% if entry.location or entry.end_date %}
           <p style="font-size: 0.85rem; opacity: 0.70; margin-bottom: 0.6rem;">
-            {{ entry.location }}
+
+            {% if entry.location %}
+              {{ entry.location }}
+            {% endif %}
+
+            {% if entry.location and entry.end_date %}
+              ·
+            {% endif %}
+
+            {% if entry.end_date %}
+              Expected {{ entry.end_date | split: '-' | first }}
+            {% endif %}
+
           </p>
         {% endif %}
 
