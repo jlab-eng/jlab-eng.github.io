@@ -64,7 +64,6 @@ permissions:
 
 jobs:
   deploy:
-    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -77,7 +76,7 @@ jobs:
           root_file: academic_cv_joaquin_leal.tex
           working_directory: assets/pdf
       - name: Name academic CV file
-        run: mv assets/pdf/academic_cv_joaquin_leal.pdf assets/pdf/Joaquin_Leal_Enciso_CV.pdf
+        run: mv assets/pdf/academic_cv_joaquin_leal.pdf assets/pdf/Joaquin_Leal_Enciso_Academic_CV.pdf
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
@@ -87,7 +86,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-          cache: "pip" # caching pip dependencies
+          cache: "pip"
       - name: Setup Node 🧰
         uses: actions/setup-node@v4
         with:
