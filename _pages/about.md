@@ -28,7 +28,7 @@ My research interests focus on **computational decision-making models for transp
 ## Research Interests
 
 - **Operations Research & Decision Analysis**
-- **Intelligent Transportation, Smart Mobility & Fleet Systems **
+- **Intelligent Transportation and Smart Mobility **
 - **Logistics, Supply Chain & Resource Scheduling**
 - **Exploring frontier of Machine Learning  & Operations Research**
 
