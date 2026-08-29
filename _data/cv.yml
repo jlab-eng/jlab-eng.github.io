@@ -29,6 +29,15 @@ cv:
         location: Colombia
         area: Mechanical Engineering
         studyType: B.Eng.
+        
+    Certificates:
+      - name: Smart Cities Summer Course
+        date: 2025
+        issuer: Zhejiang University
+
+      - name: Supply Chain Logistics
+        date: 2024
+        issuer: Rutgers University
 
     Experience:
       - company: Beihang University
