@@ -1,0 +1,54 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for entry in entries %}
+    <li class="list-group-item">
+      <div>
+
+        {% if entry.position %}
+          <h6 class="title font-weight-bold">
+            {{ entry.position }}
+          </h6>
+        {% endif %}
+
+        {% if entry.company %}
+          <h6 style="font-size: 0.95rem">
+            {{ entry.company }}
+          </h6>
+        {% endif %}
+
+        {% if entry.location %}
+          <p style="font-size: 0.85rem; opacity: 0.70; margin-bottom: 0.4rem;">
+            {{ entry.location }}
+          </p>
+        {% endif %}
+
+        {% if entry.start_date %}
+          <p style="font-size: 0.85rem; opacity: 0.70; margin-bottom: 0.6rem;">
+            {{ entry.start_date | split: '-' | first }}
+            {% if entry.end_date %}
+              – {{ entry.end_date | split: '-' | first }}
+            {% endif %}
+          </p>
+        {% endif %}
+
+        {% if entry.summary %}
+          <p style="font-size: 0.95rem;">
+            {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+          </p>
+        {% endif %}
+
+        {% if entry.highlights %}
+          <ul class="items">
+            {% for item in entry.highlights %}
+              <li>
+                <span class="item">
+                  {{ item | markdownify | remove: '<p>' | remove: '</p>' }}
+                </span>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+      </div>
+    </li>
+  {% endfor %}
+</ul>
