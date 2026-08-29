@@ -39,6 +39,13 @@ cv:
         date: 2024
         issuer: Rutgers University
 
+    Awards:
+      - title: China Scholarship Council (CSC) Full Scholarship
+        date: 2024
+        awarder: China Scholarship Council
+        summary: >
+          Full scholarship supporting master's degree studies at Beihang University.
+
     Experience:
       - company: Beihang University
         position: Master's Researcher
