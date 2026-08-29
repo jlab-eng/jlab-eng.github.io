@@ -3,10 +3,12 @@ cv:
   label: M.Sc. Student in Management Science and Engineering
   location: Beijing, China
   image: ""
+
   summary: >
-    M.Sc. student in Management Science and Engineering at Beihang University.
-    Research interests include operations research, transportation systems,
-    mathematical optimization, scheduling, logistics, and data-driven decision-making.
+    M.Sc. student in Management Science and Engineering at Beihang University
+    with a background in Mechanical Engineering. Research interests include
+    operations research, transportation and logistics systems, mathematical
+    optimization, scheduling, and data-driven decision-making.
 
   social_networks:
     - network: GitHub
@@ -18,17 +20,14 @@ cv:
       - institution: Beihang University
         location: Beijing, China
         area: Management Science and Engineering
-        studyType: MSc.
-        end_date: 2027-06
+        studyType: M.Sc.
         highlights:
           - Research focused on optimization and scheduling of battery-electric bus charging.
-    
 
       - institution: Industrial University of Santander
         location: Colombia
         area: Mechanical Engineering
         studyType: B.Eng.
-        end_date: 2016
 
     Research:
       - company: Beihang University
@@ -37,66 +36,40 @@ cv:
         start_date: 2025
         end_date: Present
         summary: >
-          Research on mathematical optimization for battery-electric bus (BEB) charging
-          scheduling under operational, battery, charger, and grid constraints.
+          Research on mathematical optimization for battery-electric bus charging
+          scheduling under operational, battery, charging-infrastructure, and grid constraints.
         highlights:
-          - Developed Mixed-Integer Linear Programming models for charging scheduling.
-          - Incorporated State-of-Charge-dependent charging power and Time-of-Use electricity pricing.
+          - Developed Mixed-Integer Linear Programming models for fleet charging scheduling.
+          - Incorporated SoC-dependent charging power and Time-of-Use electricity pricing.
           - Implemented optimization models in Python using Gurobi.
-          - Conducted sensitivity analyses on charging infrastructure and operational parameters.
+          - Conducted sensitivity analyses of infrastructure and operational parameters.
 
     Experience:
       - company: Wärtsilä
         position: Parts Coordinator Intern
         location: Colombia
         summary: >
-          Supported logistics and spare-parts coordination activities in an international engineering environment.
+          Supported logistics and spare-parts coordination activities
+          in an international engineering environment.
 
-    Projects:
+    Selected Projects:
       - name: Battery Electric Bus Charging Optimization
         summary: >
-          MILP-based optimization framework for scheduling battery-electric bus charging
-          while considering realistic fleet operations, charging infrastructure,
-          battery dynamics, and grid constraints.
+          MILP-based framework for battery-electric bus charging and scheduling
+          under operational, battery, charger, and grid constraints.
         highlights:
           - Operations Research
           - Mixed-Integer Linear Programming
-          - Gurobi
-          - Python
           - Scheduling
           - Sensitivity Analysis
         url: https://github.com/jlab-eng/bus-charging-optimization
 
-    Skills:
+    Technical Skills:
       - name: Optimization
-        level: Advanced
         keywords: "Operations Research, MILP, Mathematical Programming, Scheduling"
 
       - name: Programming and Software
-        keywords: "Python, Gurobi, Jupyter, VS Code, Plant Simulation"
+        keywords: "Python, Gurobi, Jupyter, Plant Simulation"
 
       - name: Quantitative Methods
-        keywords: "Sensitivity Analysis, Decision Analytics, Optimization Modeling"
-
-    Research Interests:
-      - name: Operations Research
-        keywords: "Mathematical Optimization, Scheduling, Decision-Making"
-
-      - name: Transportation and Logistics
-        keywords: "Electric Mobility, Transportation Systems, Logistics, Resource Allocation"
-
-      - name: Data-Driven Decision-Making
-        keywords: "Machine Learning for Optimization, Decision Analytics, Intelligent Systems"
-
-    Certificates:
-      - name: Smart Cities Summer Course
-        date: 2025
-        issuer: Zhejiang University
-
-      - name: Python for Everybody
-        date: 2024
-        issuer: University of Michigan
-
-      - name: Supply Chain Logistics
-        date: 2024
-        issuer: Rutgers University
+        keywords: "Sensitivity Analysis, Optimization Modeling"
