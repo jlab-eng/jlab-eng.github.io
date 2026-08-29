@@ -9,7 +9,7 @@ related_publications: false
 
 ## Overview
 
-This research develops a **Mixed-Integer Linear Programming (MILP)** framework for optimizing the charging schedule of Battery Electric Bus (BEB) fleets under a charging-power SOC dependent model.
+This research develops a **Mixed-Integer Linear Programming (MILP)** framework for optimizing the charging schedule of Battery Electric Bus (BEB) fleets with **SoC-dependent charging power**.
 
 The model determines when and at what power level each bus should charge while considering realistic operational and infrastructure constraints.
 
