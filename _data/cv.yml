@@ -1,58 +1,75 @@
-sections:
+cv:
+  name: Joaquin Leal Enciso
+  label: M.Sc. Student in Management Science and Engineering
+  location: Beijing, China
+  image: ""
 
-  Education:
-    - institution: Beihang University
-      location: Beijing, China
-      area: Management Science and Engineering
-      studyType: M.Sc.
-      highlights:
-        - Research focused on optimization and scheduling of battery-electric bus charging.
+  summary: >
+    M.Sc. student in Management Science and Engineering at Beihang University
+    with a background in Mechanical Engineering. Research interests include
+    operations research, transportation and logistics systems, mathematical
+    optimization, scheduling, and data-driven decision-making.
 
-    - institution: Industrial University of Santander
-      location: Colombia
-      area: Mechanical Engineering
-      studyType: B.Eng.
+  social_networks:
+    - network: GitHub
+      username: jlab-eng
 
-  Experience:
-    - company: Beihang University
-      position: Master's Researcher
-      location: Beijing, China
-      start_date: 2025
-      end_date: Present
-      summary: >
-        Research on mathematical optimization for battery-electric bus charging
-        scheduling under operational, battery, charging-infrastructure, and grid constraints.
-      highlights:
-        - Developed Mixed-Integer Linear Programming models for fleet charging scheduling.
-        - Incorporated SoC-dependent charging power and Time-of-Use electricity pricing.
-        - Implemented optimization models in Python using Gurobi.
-        - Conducted sensitivity analyses of infrastructure and operational parameters.
+  sections:
 
-    - company: Wärtsilä
-      position: Parts Coordinator Intern
-      location: Colombia
-      summary: >
-        Supported logistics and spare-parts coordination activities
-        in an international engineering environment.
+    Education:
+      - institution: Beihang University
+        location: Beijing, China
+        area: Management Science and Engineering
+        studyType: M.Sc.
+        end_date: 2027
+        highlights:
+          - Research focused on optimization and scheduling of battery-electric bus charging.
 
-  Projects:
-    - name: Battery Electric Bus Charging Optimization
-      summary: >
-        MILP-based framework for battery-electric bus charging and scheduling
-        under operational, battery, charger, and grid constraints.
-      highlights:
-        - Operations Research
-        - Mixed-Integer Linear Programming
-        - Scheduling
-        - Sensitivity Analysis
-      url: https://github.com/jlab-eng/bus-charging-optimization
+      - institution: Industrial University of Santander
+        location: Colombia
+        area: Mechanical Engineering
+        studyType: B.Eng.
 
-  Skills:
-    - name: Optimization
-      keywords: "Operations Research, MILP, Mathematical Programming, Scheduling"
+    Experience:
+      - company: Beihang University
+        position: Master's Researcher
+        location: Beijing, China
+        start_date: 2025
+        end_date: Present
+        summary: >
+          Research on mathematical optimization for battery-electric bus charging
+          scheduling under operational, battery, charging-infrastructure, and grid constraints.
+        highlights:
+          - Developed Mixed-Integer Linear Programming models for fleet charging scheduling.
+          - Incorporated SoC-dependent charging power and Time-of-Use electricity pricing.
+          - Implemented optimization models in Python using Gurobi.
+          - Conducted sensitivity analyses of infrastructure and operational parameters.
 
-    - name: Programming and Software
-      keywords: "Python, Gurobi, Jupyter, Plant Simulation"
+      - company: Wärtsilä
+        position: Parts Coordinator Intern
+        location: Colombia
+        summary: >
+          Supported logistics and spare-parts coordination activities
+          in an international engineering environment.
 
-    - name: Quantitative Methods
-      keywords: "Sensitivity Analysis, Optimization Modeling"
+    Projects:
+      - name: Battery Electric Bus Charging Optimization
+        summary: >
+          MILP-based framework for battery-electric bus charging and scheduling
+          under operational, battery, charger, and grid constraints.
+        highlights:
+          - Operations Research
+          - Mixed-Integer Linear Programming
+          - Scheduling
+          - Sensitivity Analysis
+        url: https://github.com/jlab-eng/bus-charging-optimization
+
+    Skills:
+      - name: Optimization
+        keywords: "Operations Research, MILP, Mathematical Programming, Scheduling"
+
+      - name: Programming and Software
+        keywords: "Python, Gurobi, Jupyter, Plant Simulation"
+
+      - name: Quantitative Methods
+        keywords: "Sensitivity Analysis, Optimization Modeling"
