@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1787998018.8038 "academic_cv_joaquin_leal.tex" "academic_cv_joaquin_leal.pdf" "academic_cv_joaquin_leal" 1787998019.43968 0
+["pdflatex"] 1787999355.49898 "academic_cv_joaquin_leal.tex" "academic_cv_joaquin_leal.pdf" "academic_cv_joaquin_leal" 1787999356.11937 0
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
@@ -105,10 +105,10 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1782931182 5573030 e9a973387705481b4e2cb8bfeaf8fe6e ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1782931320 3656467 a5ebb1661181d99d7ab3cd063291429c ""
   "/opt/texlive/texdir/texmf.cnf" 1782931175 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "FOTO.png" 1787997930.69406 1812350 6f362ac57869b6e841674f697d3bca53 ""
-  "academic_cv_joaquin_leal.aux" 1787998019.36124 1185 8bcab0cf2ffa61bbda28a509070e00a1 "pdflatex"
-  "academic_cv_joaquin_leal.out" 1787998019.36124 1023 d934489d0f509ee69e049992ef4e51e1 "pdflatex"
-  "academic_cv_joaquin_leal.tex" 1787997930.53784 12531 d58f188d4335e7096ae415bd0c3d5520 ""
+  "FOTO.png" 1787999268.3895 1812350 6f362ac57869b6e841674f697d3bca53 ""
+  "academic_cv_joaquin_leal.aux" 1787999356.04192 1185 8bcab0cf2ffa61bbda28a509070e00a1 "pdflatex"
+  "academic_cv_joaquin_leal.out" 1787999356.04292 1023 d934489d0f509ee69e049992ef4e51e1 "pdflatex"
+  "academic_cv_joaquin_leal.tex" 1787999268.23471 12531 d58f188d4335e7096ae415bd0c3d5520 ""
   (generated)
   "academic_cv_joaquin_leal.aux"
   "academic_cv_joaquin_leal.log"
