@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  8 SEP 2026 00:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  8 SEP 2026 00:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -578,11 +578,11 @@ d.
 (rerunfilecheck)             Checksum: D934489D0F509EE69E049992EF4E51E1;1023.
  ) 
 Here is how much of TeX's memory you used:
- 13265 strings out of 467168
- 210919 string characters out of 5411585
+ 13268 strings out of 467168
+ 210946 string characters out of 5411585
  691150 words of memory out of 5000000
  42205 multiletter control sequences out of 15000+600000
- 674766 words of font info for 170 fonts, out of 8000000 for 9000
+ 674896 words of font info for 172 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,11n,84p,1021b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></o
@@ -590,7 +590,7 @@ pt/texlive/texdir/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/texdir/texmf-d
 ist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/texdir/texmf-dist/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on academic_cv_joaquin_leal.pdf (2 pages, 1862742 bytes).
+Output written on academic_cv_joaquin_leal.pdf (2 pages, 1862707 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
