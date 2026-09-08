@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  8 SEP 2026 00:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  8 SEP 2026 00:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,18 +547,18 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 170.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 188.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 186.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 188.
-<FOTO.png, id=42, 1042.89626pt x 1518.67375pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 186.
+<FOTO.png, id=41, 1042.89626pt x 1518.67375pt>
 File: FOTO.png Graphic file (type png)
 <use FOTO.png>
-Package pdftex.def Info: FOTO.png  used on input line 199.
+Package pdftex.def Info: FOTO.png  used on input line 197.
 (pdftex.def)             Requested size: 62.52333pt x 91.04697pt.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 214.
+(Font)              scaled to size 11.03998pt on input line 212.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-39.
+37.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -590,10 +590,10 @@ pt/texlive/texdir/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/texdir/texmf-d
 ist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/texdir/texmf-dist/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on academic_cv_joaquin_leal.pdf (2 pages, 1862707 bytes).
+Output written on academic_cv_joaquin_leal.pdf (2 pages, 1862670 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  11 named destinations out of 1000 (max. 500000)
  62022 words of extra memory for PDF output out of 74296 (max. 10000000)
 
