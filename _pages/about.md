@@ -27,7 +27,7 @@ I am a M.Sc. student in **Management Science and Engineering at Beihang Universi
 My research interests focus on optimization models for logistics and transportation systems, including AI-assisted decision-making to support operational decisions, scheduling, and resource allocation across supply chain and logistics systems. I am also interested in exploring machine learning methods at the intersection of Operations Research and Operations Management.
 ## Research Interests
 
-- **Operations Research **
+- **Operations Research**
 - **AI & Intelligent Decision-Making**
 - **Logistics & Transportation & SCM**
 
